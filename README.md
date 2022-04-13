@@ -6,10 +6,10 @@ Project Overview:
 
 A Pune-Based Customer looking to buy a used car best fit to his requirments. Imp Requirments are:
 
-1.Greater Mileage   
-2.Price Below 5 lakhs    
-3.Age of Vehicle    
-4.Hyundai,Maruti,Honda brand cars are preferable.  
+1. Greater Mileage   
+2. Price Below 5 lakhs    
+3. Age of Vehicle    
+4. Hyundai,Maruti,Honda brand cars are preferable.  
 To Achieve this objective we wanted to do an Exploratory Data Analysis on our dataset to understand the relationship between the price and other features of a car.
 
 Dataset consists information about used car available on Kaggle.com. Our Dataset contains 6019 unique values and 13 features.
